@@ -1,8 +1,6 @@
-Service Menu for KDE's Dolphin file manager, adds "Extract Here" to the top
-level context menu.
+### Menu de serviço para o gerenciador de arquivos Dolphin do KDE, adiciona "Extrair aqui" ao menu de contexto de nível superior.
 
-If the archive contains multiple files they will be extracted to a subdirectory to
-prevent an archive dumping a ton of files into the current directory.
+* Se o arquivo contém vários arquivos, eles serão extraídos para um subdiretório para evitar que um arquivo descarregue uma tonelada de arquivos no diretório atual.
 
 ![Context menu screenshot](screenshots/context_menu_screenshot.png)
 
